@@ -1,0 +1,13 @@
+{
+  "billingId":"2345678",
+  "checkDigitId":"51234568901",
+  "bankAccount":{
+    "accountOwnerName":"Tim Buczak",
+    "accountNumber":"123123",
+    "type":"Checking",
+    "id":"1700366300003e82",
+    "financialInstitute":"Colorado University Credit Union",
+    "nickname":"PM Credit Union",
+    "routingNumber":"123123123"
+  }
+}
